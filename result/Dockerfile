@@ -1,4 +1,4 @@
-FROM node:12-buster-slim
+FROM node:20-buster-slim
 
 ENV PORT 80
 EXPOSE 80
